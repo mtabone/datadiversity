@@ -105,7 +105,7 @@ A demonstrative case.
 
 ####Xenophobia  - immigrant issues
 
-- Roth, Wendy. 2012. "How Immigration Changes Concepts of Race." Pp. 1-31 in Race
+- Roth, Wendy. 2012. ["How Immigration Changes Concepts of Race."](https://csde.washington.edu/news/docs/Roth%20paper_CDSE%20seminar.pdf) Pp. 1-31 in Race
 Migrations: Latinos and the Cultural Transformation of Race. Stanford, California: Stanford
 University Press.
 
