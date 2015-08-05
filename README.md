@@ -1,4 +1,3 @@
-# Data and Diversity Project at UC Berkeley
 
 # Reading List
 
@@ -24,10 +23,9 @@
 
 
 
-
 ## The Mechanics
 ### Week 2:
-Cognitive Bias
+####Cognitive Bias
 
 - Project Implicit. Harvard University. https://implicit.harvard.edu/implicit/
 Take the Implicit Association Test.   
@@ -35,39 +33,41 @@ Take the Implicit Association Test.
 - Manjoo, Farhad. Sept 24, 2014. [Exposing Hidden Bias at Google.](http://www.nytimes.com/2014/09/25/technology/exposing-hidden-biases-at-google-to-improve-diversity.html?_r=0) New York Times
 Some companies such as Google have started requiring this test to make employees (especially managers) aware of their biases.  
 
-Stereotype Threat
+####Stereotype Threat
 
 - Steele, Claude M. and Joshua Aronson. 1995. [Stereotype Threat and the Intellectual Test Performance of African Americans.](http://mrnas.pbworks.com/f/claude+steele+stereotype+threat+1995.pdf).  Journal of Personality and Social Psychology. 
 This study measured the effects on African Americans.
 
-Imposter Syndrome
+- Consequences. [Reducing Stereotype Threat](http://reducingstereotypethreat.org/consequences.html).
+More examples of how stereotype threat can influence the behaviors of a wide range of people.  It does not only affect minority or underprivileged groups.
+
+####Imposter Syndrome
 
 - Clance, Pauline Rose., and Suzanne Imes. 1978. [The Imposter Phenomenon in High Achieving Women: Dynamics and Therapeutic Intervention.](http://www.paulineroseclance.com/pdf/ip_high_achieving_women.pdf) Psychotherapy Theory, Research and Practice. 
 This paper coined the term "imposter syndrome."
 
-- After one achieves in the face of stereotype threat, one is then confronted with imposter syndrome.  How can people overcome stereotype threat AND imposter syndrome?  How can you support others in their endeavors to overcome stereotype threat AND imposter syndrome?  
+- Homework: Find literature on this topic or write about your own experiences.  
+	- After one achieves in the face of stereotype threat, one is then confronted with imposter syndrome.  How can people overcome stereotype threat AND imposter syndrome?  How can you support others in their endeavors to overcome stereotype threat AND imposter syndrome?  
 
 ## Imperialist white supremacist capitalist patriarchy
 ### Week 3:
-Microagressions
+####Microagressions
 
 - Kingkade, Tyler. July 9, 2015. [Universities are Trying to Teach Faculty How to Spot Microaggressions](http://www.huffingtonpost.com/entry/universities-microaggressions_559ec77be4b096729155bfec). Huffington Post.
 
 - Sue, Derald Wing and David Rivera. [Microaggressions in Everyday Life: Blog](https://www.psychologytoday.com/blog/microaggressions-in-everyday-life)
 Derald Sue is a researcher at Columbia University who played a leading role in developing a list of microaggressions used at many campus diversity trainings.
 
-Reflections
+#### Institutional Racism is ____
+
+####Reflections: (Let's keep this week light in case topics overflow.) 
 
 ### Week 4:
-Whiteness and White Privilege
+####Whiteness and White Privilege
 
 - McIntosh, Peggy. 1988. [White Privilege: Unpacking the Invisible Knapsack. ](http://www.deanza.edu/faculty/lewisjulie/White%20Priviledge%20Unpacking%20the%20Invisible%20Knapsack.pdf)
 
-- Crosley-Corcoran, Gina. [Explaining White Privilege to a Broke White Person](http://occupywallstreet.net/story/explaining-white-privilege-broke-white-person)
-
 - Gusa, D. L. (2010). [White institutional presence: The impact of whiteness on campus climate.](http://itec.macam.ac.il/portal/ArticlePage.aspx?id=2597) Harvard Educational Review, 80(4), 464-490. 
-
-- (privilege test) http://www.buzzfeed.com/dayshavedewi/what-is-privilege#.ayPxq09B9
 
 - Metta, John. July 10, 2015. [I, Racist.](http://www.huffingtonpost.com/john-metta/i-racist_b_7770652.html) Huffington Post.
 
@@ -79,29 +79,58 @@ Comedian Kamau Bell describes a bad experience at Elmwood Cafe, a restaurant in 
 - Coates, Ta-Nehisi. June 2014. [The Case for Reparations](http://www.theatlantic.com/features/archive/2014/05/the-case-for-reparations/361631/). The Atlantic.
 
 ### Week 5
-Sexism: rape culture, domestic violence; legal discrimination; and sexism in language. 
+####White Supremacy Culture
+
+- Jones, Kenneth and Tema Okun. 2001. [White Supremacy Culture.](http://www.cwsworkshop.org/PARC_site_B/dr-culture.html) ChangeWork.
+
+####Intersectionality
+
+- (privilege test) http://www.buzzfeed.com/dayshavedewi/what-is-privilege#.ayPxq09B9
+
+- http://www.huffingtonpost.com/ryan-campbell/undocuqueers-how-the-lgbt-and-immigrant-rights-movement-progress-together_b_7689118.html
+A demonstrative case.
+
+- Ferguson, Sarah.  2012. [Race, Gender, Sexuality, and Social Class: Dimensions of Inequality](http://www.amazon.com/Race-Gender-Sexuality-Social-Class/dp/1412991943)
+
+####Sexism: rape culture, legal discrimination; and sexism in language. 
 
 - Henn, Steve. Oct 21, 2014. [When Women Stopped Coding.](http://www.npr.org/blogs/money/2014/10/21/357629765/when-women-stopped-coding) NPR: Planet Money.
 
 - Charles, Maria. May 20, 2011. [What Gender is Science?.](http://contexts.org/articles/what-gender-is-science/). Contexts.
 
-Classism: exploitation of workers/poverty/
 
+####Classism: exploitation of workers/poverty/
 
-Xenophobia  - immigrant issues
+- Crosley-Corcoran, Gina. [Explaining White Privilege to a Broke White Person](http://occupywallstreet.net/story/explaining-white-privilege-broke-white-person)
 
+####Xenophobia  - immigrant issues
 
+- Roth, Wendy. 2012. "How Immigration Changes Concepts of Race." Pp. 1-31 in Race
+Migrations: Latinos and the Cultural Transformation of Race. Stanford, California: Stanford
+University Press.
+
+####Ableism
+
+- Anne. Nov 19, 2010. [What is Ableism? Five Things About Ableism You Should Know.](http://disabledfeminists.com/2010/11/19/what-is-ableism-five-things-about-ableism-you-should-know/) Forward.
+
+##Diversity and Science
 ### Week 6
-Diversity and learning
 
+- Gould, Stephen. 1996. The Mismeasure of Man. New York, NY: Norton & Company
+
+- Moss-Racusin, Corinne A., et al. ["Science faculty’s subtle gender biases favor male students."](http://www.pnas.org/content/109/41/16474.abstract) Proceedings of the National Academy of Sciences 109.41 (2012): 16474-16479.
+
+####Diversity and Learning
 - Gurin, P., Dey, E. L., Hurtado, S., & Gurin, G. (2002). [Diversity and higher education: Theory and impact on educational outcomes.](http://hepgjournals.org/doi/abs/10.17763/haer.72.3.01151786u134n051) Harvard Educational Review, 72(3), 330-367 
 
-### Week 7
+- Tervalon, Melanie, and Jann Murray-Garcia. ["Cultural humility versus cultural competence: a critical distinction in defining physician training outcomes in multicultural education."](https://pritzker.uchicago.edu/documents/CulturalCompetency.pdf) Journal of health care for the poor and underserved 9.2 (1998): 117-125.
 
-Language of Equity and Inclusion: 
+
+##Language of Equity and Inclusion
+### Week 7
 
 - [“30 Ways To Be a Better Ally in 2015 — Everyday Feminism.”](http://everydayfeminism.com/2014/01/30-ways-to-be-a-better-ally-in-2014/) 2015. Accessed July 23. 
 
 - [“Stop Being So Attached!: A Beginner’s Guide on Problematic Language — Everyday Feminism.”](http://everydayfeminism.com/2014/02/guide-on-problematic-language/) 2015. Accessed July 23. 
 
-- Tervalon, Melanie, and Jann Murray-Garcia. "Cultural humility versus cultural competence: a critical distinction in defining physician training outcomes in multicultural education." Journal of health care for the poor and underserved 9.2 (1998): 117-125.
+
