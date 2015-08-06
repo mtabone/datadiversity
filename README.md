@@ -101,9 +101,9 @@ A demonstrative case.
 
 ####Classism: exploitation of workers/poverty/
 
-- http://killermartinis.kinja.com/why-i-make-terrible-decisions-or-poverty-thoughts-1450123558
+- Tirado, Linda. Oct 22, 2013. [Why I Make Terrible Decisions, or, poverty thoughts.](http://killermartinis.kinja.com/why-i-make-terrible-decisions-or-poverty-thoughts-1450123558) Killer Martinis.
 
-- http://www.theguardian.com/society/2014/sep/21/linda-tirado-poverty-hand-to-mouth-interview
+- Tirado, Linda. ["Linda Tirado: ‘It was insane. I got 20,000 emails in a week’."](http://www.theguardian.com/society/2014/sep/21/linda-tirado-poverty-hand-to-mouth-interview) Interview by Rachel Cooke. The Guardian. 
 
 - Crosley-Corcoran, Gina. [Explaining White Privilege to a Broke White Person](http://occupywallstreet.net/story/explaining-white-privilege-broke-white-person)
 
