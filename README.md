@@ -101,6 +101,10 @@ A demonstrative case.
 
 ####Classism: exploitation of workers/poverty/
 
+- http://killermartinis.kinja.com/why-i-make-terrible-decisions-or-poverty-thoughts-1450123558
+
+- http://www.theguardian.com/society/2014/sep/21/linda-tirado-poverty-hand-to-mouth-interview
+
 - Crosley-Corcoran, Gina. [Explaining White Privilege to a Broke White Person](http://occupywallstreet.net/story/explaining-white-privilege-broke-white-person)
 
 ####Xenophobia  - immigrant issues
