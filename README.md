@@ -1,6 +1,6 @@
 # Data and Diversity Project Course
 
-[http://mirthbottle.github.io/datadiversity/]
+http://mirthbottle.github.io/datadiversity/
 
 [Reading List for Social Science Topics](http://mirthbottle.github.io/datadiversity/readings.html)
 
