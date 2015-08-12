@@ -6,6 +6,8 @@ http://mirthbottle.github.io/datadiversity/
 
 [Technical Topics List](http://mirthbottle.github.io/datadiversity/technical_topics.html)
 
+[Project Ideas](/datadiversity/ideas.html)
+
 ### Setup
 
 install Anaconda
