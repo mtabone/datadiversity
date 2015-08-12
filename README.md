@@ -14,4 +14,4 @@ install github
 
 for Windows you can also install all those things, but installing a Ubuntu Virtual Machine is recommended.
 
-[http://bce.berkeley.edu/install.html]
+http://bce.berkeley.edu/install.html
