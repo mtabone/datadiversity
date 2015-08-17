@@ -1,10 +1,10 @@
 # Data and Diversity Project Course
 
-http://mirthbottle.github.io/datadiversity/
+http://dlab-berkeley.github.io/datadiversity/
 
-[Reading List for Social Science Topics](http://mirthbottle.github.io/datadiversity/readings.html)
+[Reading List for Social Science Topics](/datadiversity/readings.html)
 
-[Technical Topics List](http://mirthbottle.github.io/datadiversity/technical_topics.html)
+[Technical Topics List](/datadiveristy/technical_topics.html)
 
 [Project Ideas](/datadiversity/ideas.html)
 
