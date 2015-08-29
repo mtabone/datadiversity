@@ -24,7 +24,7 @@
 1. make a [branch](http://git-scm.com/docs/git-branch)
 
   git branch [branch-name]  
-2. [switch to the other branch(http://git-scm.com/docs/git-checkout)
+2. [switch to the other branch](http://git-scm.com/docs/git-checkout)
 
   git checkout [branch-name]
 3. [make a change and commit it](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository)
@@ -34,7 +34,9 @@
 
   git checkout master
 5. make changes to the master branch and [commit it](http://git-scm.com/docs/git-commit)
-6. merge in the changes from the other branch
+6. [merge](http://git-scm.com/docs/git-merge) in the changes from the other branch
+
+  git merge [branch-name]
 7. repeat by editing the same file
 8. merge in changes and [fix conflict](http://githowto.com/resolving_conflicts)
 9. upload changes
