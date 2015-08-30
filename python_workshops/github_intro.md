@@ -52,12 +52,12 @@
   git remote add upstream [url]
 4. [get latest changes](http://git-scm.com/docs/git-pull) from the repo
 
-  git pull upstream master
+  git pull upstream gh-pages
 
 5. make changes and commit it
 6. [push changes](http://git-scm.com/docs/git-push) to your version
 
-  git push origin master
+  git push origin gh-pages
 
 
 ### Reference
