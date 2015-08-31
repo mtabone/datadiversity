@@ -1,6 +1,6 @@
 # Data and Diversity Project Course
 
-http://dlab-berkeley.github.io/datadiversity/
+http://datadiversity.berkeley.edu/
 
 [Syllabus](https://docs.google.com/document/d/1uWWr_HeHlff5eI28MPLN47RDh32pxt8Xmwa4nP_0t6Q/edit)
 
