@@ -2,6 +2,8 @@
 
 http://dlab-berkeley.github.io/datadiversity/
 
+[Syllabus](https://docs.google.com/document/d/1uWWr_HeHlff5eI28MPLN47RDh32pxt8Xmwa4nP_0t6Q/edit)
+
 [Reading List for Social Science Topics](/datadiversity/readings.html)
 
 [Technical Topics List](/datadiveristy/technical_topics.html)
