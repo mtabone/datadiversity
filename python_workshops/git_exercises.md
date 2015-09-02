@@ -4,8 +4,8 @@
 2. add a file README.md
 
 This is a markdown file.  Refer to the documentation about its syntax.
-
 http://daringfireball.net/projects/markdown/basics
+
 3. add some book, blog, podcast, or website recommendations in this file
 
 Bonus points for adding links and images.
@@ -15,8 +15,8 @@ Bonus points for adding links and images.
 7. save your favorite integer to a variable
 8. divide that number by thirteen and save it to a new variable
 9. multiply the new number by thirteen and compare it with the old variable
-
 It should be True.
+
 11. save your name to a variable and print it
 12. add your favorite number to the end of it and resave it
 13. add a space to the beginning and end of it
