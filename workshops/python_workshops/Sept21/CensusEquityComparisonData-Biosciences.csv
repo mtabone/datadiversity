@@ -1,0 +1,161 @@
+﻿Semester Year Name Concat,Semester Year Letter Cd Concat,Ungrad Grad Cd,Gender Desc,Ucb Level1 Ethnic Rollup Cd,Ucb Level1 Ethnic Rollup Desc,Student Headcount,Prorated Student Major Cnt Sum
+2005 Fall,2005 D,U,Female,1,Underrepresented Minority,44,40
+2005 Fall,2005 D,U,Female,2,Asian/Pacific Islander,478,438.5
+2005 Fall,2005 D,U,Female,3,White/Other,214,190
+2005 Fall,2005 D,U,Female,4,International,17,15
+2005 Fall,2005 D,U,Male,1,Underrepresented Minority,42,38.5
+2005 Fall,2005 D,U,Male,2,Asian/Pacific Islander,290,264.166666666667
+2005 Fall,2005 D,U,Male,3,White/Other,170,159
+2005 Fall,2005 D,U,Male,4,International,10,9
+2006 Spring,2006 B,U,Female,1,Underrepresented Minority,48,46
+2006 Spring,2006 B,U,Female,2,Asian/Pacific Islander,552,512
+2006 Spring,2006 B,U,Female,3,White/Other,234,210
+2006 Spring,2006 B,U,Female,4,International,26,24
+2006 Spring,2006 B,U,Male,1,Underrepresented Minority,47,42.5
+2006 Spring,2006 B,U,Male,2,Asian/Pacific Islander,337,310.5
+2006 Spring,2006 B,U,Male,3,White/Other,188,176.5
+2006 Spring,2006 B,U,Male,4,International,10,9.5
+2006 Fall,2006 D,U,Female,1,Underrepresented Minority,43,41
+2006 Fall,2006 D,U,Female,2,Asian/Pacific Islander,471,436.666666666667
+2006 Fall,2006 D,U,Female,3,White/Other,231,210
+2006 Fall,2006 D,U,Female,4,International,19,18
+2006 Fall,2006 D,U,Male,1,Underrepresented Minority,38,35
+2006 Fall,2006 D,U,Male,2,Asian/Pacific Islander,303,283.333333333333
+2006 Fall,2006 D,U,Male,3,White/Other,165,154
+2006 Fall,2006 D,U,Male,4,International,7,5.5
+2007 Spring,2007 B,U,Female,1,Underrepresented Minority,46,44
+2007 Spring,2007 B,U,Female,2,Asian/Pacific Islander,534,496.833333333333
+2007 Spring,2007 B,U,Female,3,White/Other,244,226.5
+2007 Spring,2007 B,U,Female,4,International,26,24.5
+2007 Spring,2007 B,U,Male,1,Underrepresented Minority,37,34.5
+2007 Spring,2007 B,U,Male,2,Asian/Pacific Islander,338,319.833333333333
+2007 Spring,2007 B,U,Male,3,White/Other,162,150
+2007 Spring,2007 B,U,Male,4,International,12,10.5
+2007 Fall,2007 D,U,Female,1,Underrepresented Minority,34,33
+2007 Fall,2007 D,U,Female,2,Asian/Pacific Islander,480,443.333333333333
+2007 Fall,2007 D,U,Female,3,White/Other,227,210
+2007 Fall,2007 D,U,Female,4,International,18,17.5
+2007 Fall,2007 D,U,Male,1,Underrepresented Minority,30,27.5
+2007 Fall,2007 D,U,Male,2,Asian/Pacific Islander,283,266.333333333333
+2007 Fall,2007 D,U,Male,3,White/Other,136,121.5
+2007 Fall,2007 D,U,Male,4,International,13,12
+2008 Spring,2008 B,U,Female,1,Underrepresented Minority,36,33.5
+2008 Spring,2008 B,U,Female,2,Asian/Pacific Islander,552,509.833333333333
+2008 Spring,2008 B,U,Female,3,White/Other,239,221
+2008 Spring,2008 B,U,Female,4,International,19,17.5
+2008 Spring,2008 B,U,Male,1,Underrepresented Minority,41,39
+2008 Spring,2008 B,U,Male,2,Asian/Pacific Islander,354,332.833333333333
+2008 Spring,2008 B,U,Male,3,White/Other,155,141
+2008 Spring,2008 B,U,Male,4,International,17,16
+2008 Fall,2008 D,U,Female,1,Underrepresented Minority,41,39
+2008 Fall,2008 D,U,Female,2,Asian/Pacific Islander,473,441.666666666667
+2008 Fall,2008 D,U,Female,3,White/Other,210,191.5
+2008 Fall,2008 D,U,Female,4,International,10,9
+2008 Fall,2008 D,U,Male,1,Underrepresented Minority,44,40.5
+2008 Fall,2008 D,U,Male,2,Asian/Pacific Islander,332,309.166666666667
+2008 Fall,2008 D,U,Male,3,White/Other,134,122
+2008 Fall,2008 D,U,Male,4,International,14,13
+2009 Spring,2009 B,U,Female,1,Underrepresented Minority,63,59.5
+2009 Spring,2009 B,U,Female,2,Asian/Pacific Islander,534,500.333333333333
+2009 Spring,2009 B,U,Female,3,White/Other,248,226.5
+2009 Spring,2009 B,U,Female,4,International,15,14
+2009 Spring,2009 B,U,Male,1,Underrepresented Minority,46,42.5
+2009 Spring,2009 B,U,Male,2,Asian/Pacific Islander,374,348.666666666667
+2009 Spring,2009 B,U,Male,3,White/Other,154,138
+2009 Spring,2009 B,U,Male,4,International,14,13
+2009 Fall,2009 D,U,Female,1,Underrepresented Minority,66,62
+2009 Fall,2009 D,U,Female,2,Asian/Pacific Islander,460,430.5
+2009 Fall,2009 D,U,Female,3,White/Other,222,203.5
+2009 Fall,2009 D,U,Female,4,International,14,12.5
+2009 Fall,2009 D,U,Male,1,Underrepresented Minority,40,37
+2009 Fall,2009 D,U,Male,2,Asian/Pacific Islander,315,293.833333333333
+2009 Fall,2009 D,U,Male,3,White/Other,148,133.333333333333
+2009 Fall,2009 D,U,Male,4,International,10,8.5
+2010 Spring,2010 B,U,Female,1,Underrepresented Minority,63,60.5
+2010 Spring,2010 B,U,Female,2,Asian/Pacific Islander,549,512.5
+2010 Spring,2010 B,U,Female,3,White/Other,231,213
+2010 Spring,2010 B,U,Female,4,International,19,17
+2010 Spring,2010 B,U,Male,1,Underrepresented Minority,44,42.5
+2010 Spring,2010 B,U,Male,2,Asian/Pacific Islander,359,332.333333333333
+2010 Spring,2010 B,U,Male,3,White/Other,173,156.333333333333
+2010 Spring,2010 B,U,Male,4,International,13,11.5
+2010 Fall,2010 D,U,Female,1,Underrepresented Minority,54,52
+2010 Fall,2010 D,U,Female,2,Asian/Pacific Islander,492,451.833333333333
+2010 Fall,2010 D,U,Female,3,White/Other,193,177
+2010 Fall,2010 D,U,Female,4,International,21,20
+2010 Fall,2010 D,U,Male,1,Underrepresented Minority,51,48.5
+2010 Fall,2010 D,U,Male,2,Asian/Pacific Islander,288,264.666666666667
+2010 Fall,2010 D,U,Male,3,White/Other,137,124
+2010 Fall,2010 D,U,Male,4,International,13,11.5
+2011 Spring,2011 B,U,Female,1,Underrepresented Minority,64,61
+2011 Spring,2011 B,U,Female,2,Asian/Pacific Islander,587,539.833333333333
+2011 Spring,2011 B,U,Female,3,White/Other,220,204
+2011 Spring,2011 B,U,Female,4,International,21,19.5
+2011 Spring,2011 B,U,Male,1,Underrepresented Minority,47,45
+2011 Spring,2011 B,U,Male,2,Asian/Pacific Islander,352,324.833333333333
+2011 Spring,2011 B,U,Male,3,White/Other,147,135.333333333333
+2011 Spring,2011 B,U,Male,4,International,18,17
+2011 Fall,2011 D,U,Female,1,Underrepresented Minority,56,52.5
+2011 Fall,2011 D,U,Female,2,Asian/Pacific Islander,494,461.5
+2011 Fall,2011 D,U,Female,3,White/Other,209,195.5
+2011 Fall,2011 D,U,Female,4,International,24,22
+2011 Fall,2011 D,U,Male,1,Underrepresented Minority,41,40
+2011 Fall,2011 D,U,Male,2,Asian/Pacific Islander,290,271.166666666667
+2011 Fall,2011 D,U,Male,3,White/Other,135,126.333333333333
+2011 Fall,2011 D,U,Male,4,International,16,15
+2012 Spring,2012 B,U,Female,1,Underrepresented Minority,68,64
+2012 Spring,2012 B,U,Female,2,Asian/Pacific Islander,579,541.333333333333
+2012 Spring,2012 B,U,Female,3,White/Other,247,231.166666666667
+2012 Spring,2012 B,U,Female,4,International,27,25
+2012 Spring,2012 B,U,Male,1,Underrepresented Minority,48,46.5
+2012 Spring,2012 B,U,Male,2,Asian/Pacific Islander,323,303.333333333333
+2012 Spring,2012 B,U,Male,3,White/Other,160,148.666666666667
+2012 Spring,2012 B,U,Male,4,International,17,15.5
+2012 Fall,2012 D,U,Female,1,Underrepresented Minority,61,58.5
+2012 Fall,2012 D,U,Female,2,Asian/Pacific Islander,434,397.166666666667
+2012 Fall,2012 D,U,Female,3,White/Other,236,220.833333333333
+2012 Fall,2012 D,U,Female,4,International,21,19.5
+2012 Fall,2012 D,U,Male,1,Underrepresented Minority,38,36.5
+2012 Fall,2012 D,U,Male,2,Asian/Pacific Islander,236,221
+2012 Fall,2012 D,U,Male,3,White/Other,113,101.166666666667
+2012 Fall,2012 D,U,Male,4,International,12,10.5
+2013 Spring,2013 B,U,Female,1,Underrepresented Minority,78,76
+2013 Spring,2013 B,U,Female,2,Asian/Pacific Islander,559,514
+2013 Spring,2013 B,U,Female,3,White/Other,286,266.333333333333
+2013 Spring,2013 B,U,Female,4,International,25,23.5
+2013 Spring,2013 B,U,Male,1,Underrepresented Minority,58,55.5
+2013 Spring,2013 B,U,Male,2,Asian/Pacific Islander,316,296
+2013 Spring,2013 B,U,Male,3,White/Other,142,129.5
+2013 Spring,2013 B,U,Male,4,International,18,17
+2013 Fall,2013 D,U,Female,1,Underrepresented Minority,77,72.3333333333333
+2013 Fall,2013 D,U,Female,2,Asian/Pacific Islander,427,395.5
+2013 Fall,2013 D,U,Female,3,White/Other,227,209.5
+2013 Fall,2013 D,U,Female,4,International,29,27
+2013 Fall,2013 D,U,Male,1,Underrepresented Minority,52,48
+2013 Fall,2013 D,U,Male,2,Asian/Pacific Islander,266,250
+2013 Fall,2013 D,U,Male,3,White/Other,136,122.833333333333
+2013 Fall,2013 D,U,Male,4,International,16,15
+2014 Spring,2014 B,U,Female,1,Underrepresented Minority,96,90.3333333333333
+2014 Spring,2014 B,U,Female,2,Asian/Pacific Islander,519,478.666666666667
+2014 Spring,2014 B,U,Female,3,White/Other,259,237
+2014 Spring,2014 B,U,Female,4,International,43,40
+2014 Spring,2014 B,U,Male,1,Underrepresented Minority,54,50.5
+2014 Spring,2014 B,U,Male,2,Asian/Pacific Islander,315,289.333333333333
+2014 Spring,2014 B,U,Male,3,White/Other,141,131.333333333333
+2014 Spring,2014 B,U,Male,4,International,25,24
+2014 Fall,2014 D,U,Female,1,Underrepresented Minority,86,80.8333333333333
+2014 Fall,2014 D,U,Female,2,Asian/Pacific Islander,441,407.333333333333
+2014 Fall,2014 D,U,Female,3,White/Other,182,167.333333333333
+2014 Fall,2014 D,U,Female,4,International,40,36.5
+2014 Fall,2014 D,U,Male,1,Underrepresented Minority,53,50
+2014 Fall,2014 D,U,Male,2,Asian/Pacific Islander,260,236
+2014 Fall,2014 D,U,Male,3,White/Other,98,91
+2014 Fall,2014 D,U,Male,4,International,23,22
+2015 Spring,2015 B,U,Female,1,Underrepresented Minority,92,85.8333333333333
+2015 Spring,2015 B,U,Female,2,Asian/Pacific Islander,515,474.5
+2015 Spring,2015 B,U,Female,3,White/Other,220,203.666666666667
+2015 Spring,2015 B,U,Female,4,International,53,48.5
+2015 Spring,2015 B,U,Male,1,Underrepresented Minority,57,53
+2015 Spring,2015 B,U,Male,2,Asian/Pacific Islander,289,264.166666666667
+2015 Spring,2015 B,U,Male,3,White/Other,106,99
+2015 Spring,2015 B,U,Male,4,International,27,25.5
