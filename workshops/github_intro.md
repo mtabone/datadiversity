@@ -20,6 +20,7 @@
 4. push to your repo
 
 # [branching](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
+## do at home!
 
 1. make a [branch](http://git-scm.com/docs/git-branch)
 
