@@ -10,6 +10,8 @@ http://datadiversity.berkeley.edu/
 
 [Project Ideas](/datadiversity/ideas.html)
 
+Michaelangelo Was Here
+
 ### Setup
 
 1. To get most of the python packages you need, [install Anaconda](http://continuum.io/downloads#all)
